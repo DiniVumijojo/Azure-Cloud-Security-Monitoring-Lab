@@ -96,9 +96,9 @@ Azure Monitor Alert Rule
 
 ## Documentation
 
-The complete implementation guide with screenshots and detailed explanations is available here:
+The complete project documentation, including deployment steps, screenshots, KQL queries, and Azure Monitor configuration, can be viewed here:
 
-📄 Azure_Cloud_Security_Monitoring_Lab_Report.pdf
+[**Azure Cloud Security Monitoring Lab Report**](Azure_Cloud_Security_Monitoring_Lab_Report.pdf)
 
 ## Author
 
