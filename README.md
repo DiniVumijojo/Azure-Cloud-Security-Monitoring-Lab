@@ -98,7 +98,7 @@ Azure Monitor Alert Rule
 
 The complete implementation guide with screenshots and detailed explanations is available here:
 
-📄 [Azure Cloud Security Monitoring Lab Documentation](Azure_Cloud_Security_Monitoring_Lab.pdf)
+📄 Azure_Cloud_Security_Monitoring_Lab_Report.pdf
 
 ## Author
 
